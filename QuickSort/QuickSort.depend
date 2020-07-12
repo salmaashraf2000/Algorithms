@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1582903459 source:c:\users\metr\desktop\quicksort\main.cpp
+	<iostream>
+	<ctime>
+
+1583440218 source:c:\users\metr\desktop\algorithms\quicksort\main.cpp
+	<iostream>
+	<ctime>
+

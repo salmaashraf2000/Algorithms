@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1584897158 source:c:\users\metr\desktop\checkbipartiteundirectedgraph\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1584897158 source:c:\users\metr\desktop\algorithms\graph\checkbipartiteundirectedgraph\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
